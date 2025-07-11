@@ -1,0 +1,7 @@
+{
+    "github.copilot.enable": {
+        "html": true,
+        "css": true
+    },
+    "editor.defaultFormatter": "GitHub.copilot"
+}
