@@ -4,9 +4,9 @@
 title: github.stephendonlin.com
 #
 
-author:
-  name: Stephen Donlin  
-  email: sddonlin@gmail.com
+#author:
+#  name: Stephen Donlin  
+#  email: sddonlin@gmail.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
@@ -56,12 +56,14 @@ plugins:
 #     * solarized-dark     Dark variant of solarized color scheme.
 #     * solarized          Adaptive skin for solarized color scheme skins.
 #   skin: auto
+
 minima: 
     skin: solarized-light
 #   Specific pages for site navigation.
 #     If you wish to link only specific pages in the site-navigation, use this
 #     and list the `path` property (as represented via Liquid) of the pages in
 #     the order they should be rendered.
+
 nav_pages:
   - index.html
   - about.html
